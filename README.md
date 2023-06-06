@@ -11,21 +11,21 @@ Aspiring Junior Software Developer actively preparing for a career in software d
 
 ## Skills and Expertise
 - **Programming Languages:** 
-  - Python
-  - JavaScript
+  - Python ([Resources](https://github.com/JoonHeeSeo/SAFFY_01_Python))
+  - JavaScript ([Resources](https://github.com/JoonHeeSeo/SAFFY_06_JavaScript))
 
   **----Learning in Progress----**
    - Java
  
 - **Frameworks and Libraries:**
-  - Django
-  - Vue
+  - Django ([Vanilla](https://github.com/JoonHeeSeo/SAFFY_03_Django), [REST](https://github.com/JoonHeeSeo/SAFFY_05_Django_REST_Framework))
+  - Vue ([Resources](https://github.com/JoonHeeSeo/SAFFY_07_Vue))
 
   **----Learning in Progress----**
    - Spring
 
 - **Databases:**
-  - SQLite
+  - SQLite ([Resources](https://github.com/JoonHeeSeo/SAFFY_04_Database))
 
 - **Cloud Platforms:**
 
