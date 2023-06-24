@@ -13,9 +13,7 @@ Aspiring Junior Software Developer actively preparing for a career in software d
 - **Programming Languages:** 
   - Python ([Resources](https://github.com/JoonHeeSeo/SAFFY_01_Python))
   - JavaScript ([Resources](https://github.com/JoonHeeSeo/SAFFY_06_JavaScript))
-
-  **----Learning in Progress----**
-   - Java
+   - Java ([Resources](https://github.com/JoonHeeSeo/WIL_Java))
  
 - **Frameworks and Libraries:**
   - Django ([Vanilla](https://github.com/JoonHeeSeo/SAFFY_03_Django), [REST](https://github.com/JoonHeeSeo/SAFFY_05_Django_REST_Framework))
