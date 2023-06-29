@@ -28,7 +28,7 @@ Aspiring Junior Software Developer actively preparing for a career in software d
 - **Cloud Platforms:**
 
   **----Learning in Progress----**
-  - AWS
+  - AWS ([Resources](https://github.com/JoonHeeSeo/WIL_AWS))
 
 
 ## Contact Me
