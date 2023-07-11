@@ -20,7 +20,7 @@ Aspiring Junior Software Developer actively preparing for a career in software d
   - Vue ([Resources](https://github.com/JoonHeeSeo/SAFFY_07_Vue))
 
   **----Learning in Progress----**
-   - Spring
+   - Spring ([Resources](https://github.com/JoonHeeSeo/WIL_Spring))
 
 - **Databases:**
   - SQLite ([Resources](https://github.com/JoonHeeSeo/SAFFY_04_Database))
