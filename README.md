@@ -26,10 +26,9 @@ Aspiring Junior Software Developer actively preparing for a career in software d
   - SQLite ([Resources](https://github.com/JoonHeeSeo/SAFFY_04_Database))
 
 - **Cloud Platforms:**
+  - AWS Cloud Practitioner ([Resources](https://github.com/JoonHeeSeo/WIL_AWS))
 
   **----Learning in Progress----**
-  - AWS ([Resources](https://github.com/JoonHeeSeo/WIL_AWS))
-
 
 ## Contact Me
 - E-mail : [seojoonhee10@gmail.com](mailto:seojoonhee10@gmail.com)
