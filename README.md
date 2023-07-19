@@ -28,7 +28,6 @@ Aspiring Junior Software Developer actively preparing for a career in software d
 - **Cloud Platforms:**
   - AWS Cloud Practitioner ([Resources](https://github.com/JoonHeeSeo/WIL_AWS))
 
-  **----Learning in Progress----**
 
 ## Contact Me
 - E-mail : [seojoonhee10@gmail.com](mailto:seojoonhee10@gmail.com)
