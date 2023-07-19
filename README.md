@@ -11,19 +11,19 @@ Aspiring Junior Software Developer actively preparing for a career in software d
 
 ## Skills and Expertise
 - **Programming Languages:** 
-  - Python ([Resources](https://github.com/JoonHeeSeo/SAFFY_01_Python))
-  - JavaScript ([Resources](https://github.com/JoonHeeSeo/SAFFY_06_JavaScript))
+  - Python ([Resources](https://github.com/JoonHeeSeo/WIL_Python))
+  - JavaScript ([Resources](https://github.com/JoonHeeSeo/WIL_JavaScript))
    - Java ([Resources](https://github.com/JoonHeeSeo/WIL_Java))
  
 - **Frameworks and Libraries:**
-  - Django ([Vanilla](https://github.com/JoonHeeSeo/SAFFY_03_Django), [REST](https://github.com/JoonHeeSeo/SAFFY_05_Django_REST_Framework))
-  - Vue ([Resources](https://github.com/JoonHeeSeo/SAFFY_07_Vue))
+  - Django ([Vanilla](https://github.com/JoonHeeSeo/WIL_Django), [REST](https://github.com/JoonHeeSeo/WIL_Django_REST_Framework))
+  - Vue ([Resources](https://github.com/JoonHeeSeo/WIL_Vue))
 
   **----Learning in Progress----**
    - Spring ([Resources](https://github.com/JoonHeeSeo/WIL_Spring))
 
 - **Databases:**
-  - SQLite ([Resources](https://github.com/JoonHeeSeo/SAFFY_04_Database))
+  - SQLite ([Resources](https://github.com/JoonHeeSeo/WIL_Database))
 
 - **Cloud Platforms:**
   - AWS Cloud Practitioner ([Resources](https://github.com/JoonHeeSeo/WIL_AWS))
