@@ -9,6 +9,8 @@ Aspiring Junior Software Developer actively preparing for a career in software d
 - [영화 추천 알고리즘 기반 커뮤니티 서비스](https://github.com/JoonHeeSeo/Final_PJT)
 
 
+
+  **----Working in Progress----**
 - [AI 기반 1000hPa 수치모델링과 기상 예측 시뮬레이션](https://github.com/JoonHeeSeo/AI_surface_weather_prediction)
 
 
