@@ -17,11 +17,12 @@ Aspiring Junior Software Developer actively preparing for a career in software d
 ## Skills and Expertise
 - **Back-end:** 
   - Python ([Resources](https://github.com/JoonHeeSeo/WIL_Python))
-  - Java ([Resources](https://github.com/JoonHeeSeo/WIL_Java))
   - Django ([Vanilla](https://github.com/JoonHeeSeo/WIL_Django), [REST](https://github.com/JoonHeeSeo/WIL_Django_REST_Framework))
 
+  - Java ([Resources](https://github.com/JoonHeeSeo/WIL_Java))
+
   **----Learning in Progress----**
-   - Spring ([Resources](https://github.com/JoonHeeSeo/WIL_Spring))
+   - Spring & Spring Boot ([Resources](https://github.com/JoonHeeSeo/WIL_Spring))
  
 - **Front-end:**
   - JavaScript ([Resources](https://github.com/JoonHeeSeo/WIL_JavaScript))
@@ -30,7 +31,7 @@ Aspiring Junior Software Developer actively preparing for a career in software d
 - **Database:**
   - SQLite ([Resources](https://github.com/JoonHeeSeo/WIL_Database))
 
-- **Devops**
+- **DevOps**
   - AWS Cloud Practitioner ([Resources](https://github.com/JoonHeeSeo/WIL_AWS))
   - Docker ([Resources](https://github.com/JoonHeeSeo/WIL_Docker))
 
