@@ -10,29 +10,33 @@ Aspiring Junior Software Developer actively preparing for a career in software d
 
 
 
-
 **----Working in Progress----**
 - [AI 기반 1000hPa 수치모델링과 기상 예측 시뮬레이션](https://github.com/JoonHeeSeo/AI_surface_weather_prediction)
 
 
 ## Skills and Expertise
-- **Programming Languages:** 
+- **Back-end:** 
   - Python ([Resources](https://github.com/JoonHeeSeo/WIL_Python))
-  - JavaScript ([Resources](https://github.com/JoonHeeSeo/WIL_JavaScript))
-   - Java ([Resources](https://github.com/JoonHeeSeo/WIL_Java))
- 
-- **Frameworks and Libraries:**
+  - Java ([Resources](https://github.com/JoonHeeSeo/WIL_Java))
   - Django ([Vanilla](https://github.com/JoonHeeSeo/WIL_Django), [REST](https://github.com/JoonHeeSeo/WIL_Django_REST_Framework))
-  - Vue ([Resources](https://github.com/JoonHeeSeo/WIL_Vue))
 
   **----Learning in Progress----**
    - Spring ([Resources](https://github.com/JoonHeeSeo/WIL_Spring))
+ 
+- **Front-end:**
+  - JavaScript ([Resources](https://github.com/JoonHeeSeo/WIL_JavaScript))
+  - Vue ([Resources](https://github.com/JoonHeeSeo/WIL_Vue))
 
-- **Databases:**
+- **Database:**
   - SQLite ([Resources](https://github.com/JoonHeeSeo/WIL_Database))
 
-- **Cloud Platforms:**
+- **Devops**
   - AWS Cloud Practitioner ([Resources](https://github.com/JoonHeeSeo/WIL_AWS))
+  - Docker ([Resources](https://github.com/JoonHeeSeo/WIL_Docker))
+
+- **AI & Machine Learning**
+
+  **----Learning in Progress----**
 
 
 ## Contact Me
