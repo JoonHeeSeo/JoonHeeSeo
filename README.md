@@ -38,7 +38,7 @@ Aspiring Junior Software Developer actively preparing for a career in software d
 - **AI & Machine Learning**
 
   **----Learning in Progress----**
-
+    - TensorFlow
 
 ## Contact Me
 - E-mail : [seojoonhee10@gmail.com](mailto:seojoonhee10@gmail.com)
