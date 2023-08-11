@@ -14,13 +14,8 @@ Aspiring Junior Software Developer actively preparing for a career in software d
 
 ## Skills and Expertise
 - **Back-end:** 
-  - Python ([Resources](https://github.com/JoonHeeSeo/WIL_Python))
-  - Django ([Vanilla](https://github.com/JoonHeeSeo/WIL_Django), [REST](https://github.com/JoonHeeSeo/WIL_Django_REST_Framework))
-
-  - Java ([Resources](https://github.com/JoonHeeSeo/WIL_Java))
-
-  **----Learning in Progress----**
-   - Spring & Spring Boot ([Resources](https://github.com/JoonHeeSeo/WIL_Spring))
+  - Python ([Resources](https://github.com/JoonHeeSeo/WIL_Python)) with Django ([Vanilla](https://github.com/JoonHeeSeo/WIL_Django), [REST](https://github.com/JoonHeeSeo/WIL_Django_REST_Framework))
+  - Java ([Resources](https://github.com/JoonHeeSeo/WIL_Java)) with Spring & Spring Boot ([Resources](https://github.com/JoonHeeSeo/WIL_Spring))
  
 - **Front-end:**
   - JavaScript ([Resources](https://github.com/JoonHeeSeo/WIL_JavaScript))
