@@ -9,7 +9,7 @@ Aspiring Junior Software Developer actively preparing for a career in software d
 
 
 **----Working in Progress----**
-- [AI 기반 1000hPa 수치모델링과 기상 예측 시뮬레이션](https://github.com/JoonHeeSeo/AI_surface_weather_prediction)
+- [1000hPa 수치모델링과 기상 예측 시뮬레이션](https://github.com/JoonHeeSeo/AI_surface_weather_prediction)
 
 
 ## Skills and Expertise
