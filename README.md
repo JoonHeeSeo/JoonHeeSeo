@@ -4,8 +4,8 @@ Aspiring Junior Software Developer actively preparing for a career in software d
 
 
 ## Projects
-- [영화 추천 알고리즘 기반 커뮤니티 서비스](https://github.com/JoonHeeSeo/Final_PJT)
-- [소켓 통신을 활용한 2D 횡스크롤 플랫포머 게임](https://github.com/JoonHeeSeo/WebRTC_Platformer_game)
+- [영화 커뮤니티 웹 서비스](https://github.com/JoonHeeSeo/Final_PJT)
+- [실시간 멀티플레이어 웹 게임](https://github.com/JoonHeeSeo/WebRTC_Platformer_game)
 
 
 **----Working in Progress----**
