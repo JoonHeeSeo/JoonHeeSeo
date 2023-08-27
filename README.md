@@ -8,6 +8,8 @@ Aspiring Junior Software Developer actively preparing for a career in software d
 - [영화 커뮤니티 웹 서비스](https://github.com/JoonHeeSeo/movie_community_webservice)
 - [기상 예측 시뮬레이션](https://github.com/JoonHeeSeo/weather_prediction_simulation)
 
+  **----Working in Progress----**
+  - [영화 추천 알고리즘](https://github.com/JoonHeeSeo/movie_recommend)
 
 ## Skills and Expertise
 - **Back-end:** 
