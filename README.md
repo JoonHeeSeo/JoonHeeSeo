@@ -4,9 +4,9 @@ Aspiring Junior Software Developer actively preparing for a career in software d
 
 
 ## Projects
-- [영화 커뮤니티 웹 서비스](https://github.com/JoonHeeSeo/Final_PJT)
-- [실시간 멀티플레이어 웹 게임](https://github.com/JoonHeeSeo/WebRTC_Platformer_game)
-- [기상 예측 시뮬레이션](https://github.com/JoonHeeSeo/AI_surface_weather_prediction)
+- [실시간 멀티플레이어 웹 게임](https://github.com/JoonHeeSeo/realtime_multiplayer_webgame)
+- [영화 커뮤니티 웹 서비스](https://github.com/JoonHeeSeo/movie_community_webservice)
+- [기상 예측 시뮬레이션](https://github.com/JoonHeeSeo/weather_prediction_simulation)
 
 
 ## Skills and Expertise
