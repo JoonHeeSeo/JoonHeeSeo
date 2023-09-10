@@ -11,6 +11,7 @@ Aspiring Junior Software Developer actively preparing for a career in software d
 
   **----Working in Progress----**
 
+
 ## Skills and Expertise
 - **Back-end** 
   - Python ([Resources](https://github.com/JoonHeeSeo/WIL_Python)) with Django ([Vanilla](https://github.com/JoonHeeSeo/WIL_Django), [REST](https://github.com/JoonHeeSeo/WIL_Django_REST_Framework))
@@ -32,7 +33,7 @@ Aspiring Junior Software Developer actively preparing for a career in software d
   - Pandas, Matplotlib
 
   **----Learning in Progress----**
-    - TensorFlow
+
 
 ## Contact Me
 - E-mail : [seojoonhee10@gmail.com](mailto:seojoonhee10@gmail.com)
