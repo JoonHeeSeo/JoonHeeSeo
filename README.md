@@ -28,11 +28,11 @@ Aspiring Junior Software Developer actively preparing for a career in software d
   - Docker ([Resources](https://github.com/JoonHeeSeo/WIL_Docker))
 
 - **AI & Machine Learning**
+  - PyTorch ([Video](https://github.com/JoonHeeSeo/AI_Voice_and_Video/tree/main/AI_Video), [Voice](https://github.com/JoonHeeSeo/AI_Voice_and_Video/tree/main/AI_Voice))
   - Pandas, Matplotlib
 
   **----Learning in Progress----**
     - TensorFlow
-    - PyTorch ([Video](https://github.com/JoonHeeSeo/AI_Voice_and_Video/tree/main/AI_Video), [Voice](https://github.com/JoonHeeSeo/AI_Voice_and_Video/tree/main/AI_Voice))
 
 ## Contact Me
 - E-mail : [seojoonhee10@gmail.com](mailto:seojoonhee10@gmail.com)
