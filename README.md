@@ -19,7 +19,7 @@ Aspiring Junior Software Developer actively preparing for a career in software d
  
 - **Front-end**
   - JavaScript ([Resources](https://github.com/JoonHeeSeo/WIL_JavaScript)), TypeScript
-  - Vue ([Resources](https://github.com/JoonHeeSeo/WIL_Vue))
+  - Vue ([Resources](https://github.com/JoonHeeSeo/WIL_Vue)), React ([Resources](https://github.com/JoonHeeSeo/WIL_React))
 
 - **Database**
   - MySQL ([Resources](https://github.com/JoonHeeSeo/WIL_Database))
