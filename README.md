@@ -10,6 +10,7 @@ Aspiring Junior Software Developer actively preparing for a career in software d
 - [기상 예측 시뮬레이션](https://github.com/JoonHeeSeo/weather_prediction_simulation)
 
   **----Working in Progress----**
+- [음악 합주 커뮤니티](https://github.com/JoonHeeSeo/music_ensemble_community)
 
 
 ## Skills and Expertise
