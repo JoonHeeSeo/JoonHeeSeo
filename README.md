@@ -10,8 +10,6 @@ Aspiring Junior Software Developer actively preparing for a career in software d
   
 - [영화 추천 알고리즘](https://github.com/JoonHeeSeo/movie_recommend)
   
-- [기상 예측 시뮬레이션](https://github.com/JoonHeeSeo/weather_prediction_simulation)
-
   **----Working in Progress----**
 - [음악 합주 커뮤니티](https://github.com/JoonHeeSeo/music_ensemble_community)
 
@@ -37,6 +35,10 @@ Aspiring Junior Software Developer actively preparing for a career in software d
   - Vue ([Resources](https://github.com/JoonHeeSeo/WIL_Vue)), React ([Resources](https://github.com/JoonHeeSeo/WIL_React))
 
   **----Learning in Progress----**
+
+
+## Practices
+- [기상청 API 활용 연습](https://github.com/JoonHeeSeo/weather_API)
 
 
 ## Contact Me
