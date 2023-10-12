@@ -4,6 +4,8 @@ Aspiring Junior Software Developer actively preparing for a career in software d
 
 
 ## Works
+- [합주 기반 음악 커뮤니티](https://github.com/JoonHeeSeo/music_ensemble_community)
+  
 - [실시간 멀티플레이어 웹 게임](https://github.com/JoonHeeSeo/realtime_multiplayer_webgame)
   
 - [영화 커뮤니티 서비스](https://github.com/JoonHeeSeo/movie_community_webservice)
@@ -11,7 +13,6 @@ Aspiring Junior Software Developer actively preparing for a career in software d
 - [영화 추천 알고리즘](https://github.com/JoonHeeSeo/movie_recommend)
   
   **----Working in Progress----**
-- [음악 합주 커뮤니티](https://github.com/JoonHeeSeo/music_ensemble_community)
 
 
 ## Skills and Expertise
