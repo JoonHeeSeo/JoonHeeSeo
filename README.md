@@ -20,7 +20,7 @@ Aspiring Junior Software Developer actively preparing for a career in software d
 - [기상청 API 활용 연습](https://github.com/JoonHeeSeo/weather_API)
 
 
-## Skills and Expertise
+## Skills
 - **Back-end**
   - Java ([Resources](https://github.com/JoonHeeSeo/WIL_Java)) with Spring ([Resources](https://github.com/JoonHeeSeo/WIL_Spring/tree/main/Spring_MVC_1st_Backend_Web)) & Spring Boot ([Resources](https://github.com/JoonHeeSeo/WIL_Spring/tree/main/Spring_Boot))
   - Python ([Resources](https://github.com/JoonHeeSeo/WIL_Python)) with Django ([Vanilla](https://github.com/JoonHeeSeo/WIL_Django), [REST](https://github.com/JoonHeeSeo/WIL_Django_REST_Framework))
