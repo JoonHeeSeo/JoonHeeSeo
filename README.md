@@ -4,7 +4,7 @@ Aspiring Junior Software Developer actively preparing for a career in software d
 
 
 ## Works
-- [합주 기반 음악 커뮤니티](https://github.com/JoonHeeSeo/OnTheBlock)
+- [합주 기반 음악 커뮤니티](https://github.com/JoonHeeSeo/music_ensemble_community)
   
 - [실시간 멀티플레이어 웹 게임](https://github.com/JoonHeeSeo/realtime_multiplayer_webgame)
   
