@@ -27,7 +27,7 @@ Aspiring Junior Software Developer actively preparing for a career in software d
   - Python ([Resources](https://github.com/JoonHeeSeo/WIL_Python)) with Django ([Vanilla](https://github.com/JoonHeeSeo/WIL_Django), [REST](https://github.com/JoonHeeSeo/WIL_Django_REST_Framework))
  
 - **Database**
-  - MySQL ([Resources](https://github.com/JoonHeeSeo/WIL_Database/MySQL))
+  - MySQL ([Resources](https://github.com/JoonHeeSeo/WIL_Database/tree/main/MySQL))
 
 - **DevOps**
   - AWS Cloud Practitioner ([Resources](https://github.com/JoonHeeSeo/WIL_AWS))
@@ -42,8 +42,8 @@ Aspiring Junior Software Developer actively preparing for a career in software d
   - Vue ([Resources](https://github.com/JoonHeeSeo/WIL_Vue)), React ([Resources](https://github.com/JoonHeeSeo/WIL_React))
 
   **----Learning in Progress----**
-  - GraphQL ([Resources](https://github.com/JoonHeeSeo/GraphQL))
-  - MongoDB ([Resources](https://github.com/JoonHeeSeo/WIL_Database/MongoDB))
+  - GraphQL with graphene-django ([Resources](https://github.com/JoonHeeSeo/GraphQL/tree/main/graphene-django))
+  - MongoDB ([Resources](https://github.com/JoonHeeSeo/WIL_Database/tree/main/MongoDB))
 
 
 ## Contact Me
