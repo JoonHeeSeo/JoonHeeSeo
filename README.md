@@ -42,7 +42,7 @@ Aspiring Junior Software Developer actively preparing for a career in software d
   - Vue ([Resources](https://github.com/JoonHeeSeo/WIL_Vue)), React ([Resources](https://github.com/JoonHeeSeo/WIL_React))
 
   **----Learning in Progress----**
-  - GraphQL with graphene-django ([Resources](https://github.com/JoonHeeSeo/GraphQL/tree/main/graphene-django))
+  - GraphQL with graphene ([Resources](https://github.com/JoonHeeSeo/GraphQL/tree/main/graphene))
   - MongoDB ([Resources](https://github.com/JoonHeeSeo/WIL_Database/tree/main/MongoDB))
 
 
