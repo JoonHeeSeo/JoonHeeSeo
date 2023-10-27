@@ -23,27 +23,27 @@ Aspiring Junior Software Developer actively preparing for a career in software d
 
 ## Skills
 - **Back-end**
-  - Java ([Resources](https://github.com/JoonHeeSeo/WIL_Java)) with Spring ([Resources](https://github.com/JoonHeeSeo/WIL_Spring/tree/main/Spring_MVC_1st_Backend_Web)) & Spring Boot ([Resources](https://github.com/JoonHeeSeo/WIL_Spring/tree/main/Spring_Boot))
-  - Python ([Resources](https://github.com/JoonHeeSeo/WIL_Python)) with Django ([Vanilla](https://github.com/JoonHeeSeo/WIL_Django), [REST](https://github.com/JoonHeeSeo/WIL_Django_REST_Framework))
+  - [Java](https://github.com/JoonHeeSeo/WIL_Java) with [Spring](https://github.com/JoonHeeSeo/WIL_Spring/tree/main/Spring_MVC_1st_Backend_Web) & [Spring Boot](https://github.com/JoonHeeSeo/WIL_Spring/tree/main/Spring_Boot)
+  - [Python](https://github.com/JoonHeeSeo/WIL_Python) with Django ([Vanilla](https://github.com/JoonHeeSeo/WIL_Django), [REST](https://github.com/JoonHeeSeo/WIL_Django_REST_Framework))
  
 - **Database**
-  - MySQL ([Resources](https://github.com/JoonHeeSeo/WIL_Database/tree/main/MySQL))
+  - [MySQL](https://github.com/JoonHeeSeo/WIL_Database/tree/main/MySQL)
 
 - **DevOps**
-  - AWS Cloud Practitioner ([Resources](https://github.com/JoonHeeSeo/WIL_AWS))
-  - Docker ([Resources](https://github.com/JoonHeeSeo/WIL_Docker))
+  - [AWS Cloud Practitioner](https://github.com/JoonHeeSeo/WIL_AWS)
+  - [Docker](https://github.com/JoonHeeSeo/WIL_Docker)
 
 - **AI & Machine Learning**
   - PyTorch ([Video](https://github.com/JoonHeeSeo/AI_Voice_and_Video/tree/main/AI_Video), [Voice](https://github.com/JoonHeeSeo/AI_Voice_and_Video/tree/main/AI_Voice))
   - Pandas, Matplotlib
     
 - **Front-end**
-  - JavaScript ([Resources](https://github.com/JoonHeeSeo/WIL_JavaScript)), TypeScript
-  - Vue ([Resources](https://github.com/JoonHeeSeo/WIL_Vue)), React ([Resources](https://github.com/JoonHeeSeo/WIL_React))
+  - [JavaScript](https://github.com/JoonHeeSeo/WIL_JavaScript), TypeScript
+  - [Vue](https://github.com/JoonHeeSeo/WIL_Vue), [React](https://github.com/JoonHeeSeo/WIL_React)
 
   **----Learning in Progress----**
-  - GraphQL with graphene ([Resources](https://github.com/JoonHeeSeo/GraphQL/tree/main/graphene))
-  - MongoDB ([Resources](https://github.com/JoonHeeSeo/WIL_Database/tree/main/MongoDB))
+  - GraphQL with [graphene](https://github.com/JoonHeeSeo/GraphQL/tree/main/graphene)
+  - [MongoDB](https://github.com/JoonHeeSeo/WIL_Database/tree/main/MongoDB)
 
 
 ## Contact Me
