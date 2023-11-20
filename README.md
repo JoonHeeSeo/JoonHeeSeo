@@ -4,6 +4,8 @@ Aspiring Junior Software Developer actively preparing for a career in software d
 
 
 ## Works
+- [자율 주행 및 자동 주차 시스템](https://github.com/JoonHeeSeo/auto_driving_and_parking)
+
 - [합주 기반 음악 커뮤니티](https://github.com/JoonHeeSeo/music_ensemble_community)
   
 - [실시간 멀티플레이어 웹 게임](https://github.com/JoonHeeSeo/realtime_multiplayer_webgame)
@@ -12,7 +14,6 @@ Aspiring Junior Software Developer actively preparing for a career in software d
   
   
   **----Working in Progress----**
-  - [자율 주행 및 자동 주차 시스템](https://github.com/JoonHeeSeo/auto_driving_and_parking)
 
 
 ## Practices
