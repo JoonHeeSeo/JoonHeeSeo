@@ -1,6 +1,6 @@
 
 # JoonHee Seo
-Aspiring Junior Software Developer actively preparing for a career in software development ([Private Link](https://github.com/JoonHeeSeo/README_Private))
+Aspiring Junior Software Developer actively preparing for a career in software development   ([Private Link](https://github.com/JoonHeeSeo/README_Private))
 
 ## Works
 - [자율 주행 및 자동 주차 시스템](https://github.com/JoonHeeSeo/auto_driving_and_parking)
