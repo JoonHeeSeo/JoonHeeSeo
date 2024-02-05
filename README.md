@@ -25,7 +25,7 @@ Aspiring Junior Software Developer actively preparing for a career in software d
 - **Back-end**
   - [Java](https://github.com/JoonHeeSeo/WIL_Java) with [Spring](https://github.com/JoonHeeSeo/WIL_Spring/tree/main/Spring_MVC_1st_Backend_Web) & [Spring Boot](https://github.com/JoonHeeSeo/WIL_Spring/tree/main/Spring_Boot)
   - [Python](https://github.com/JoonHeeSeo/WIL_Python) with Django ([Vanilla](https://github.com/JoonHeeSeo/WIL_Django), [REST](https://github.com/JoonHeeSeo/WIL_Django_REST_Framework))
-  - GraphQL with [graphene](https://github.com/JoonHeeSeo/GraphQL/tree/main/graphene), with [Spring 3](https://github.com/JoonHeeSeo/GraphQL/tree/main/spring3-graphql)
+  - GraphQL with ([graphene](https://github.com/JoonHeeSeo/GraphQL/tree/main/graphene), [Spring 3](https://github.com/JoonHeeSeo/GraphQL/tree/main/spring3-graphql))
     
 - **Database**
   - [MySQL](https://github.com/JoonHeeSeo/WIL_Database/tree/main/MySQL)
