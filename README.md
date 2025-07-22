@@ -6,8 +6,6 @@ Near‑surface temp forecast for Incheon Airport (RKSI).
 
 🔗 https://rksi-temperature-prediction.streamlit.app/
 
----
-
 ## 🌬️ Korea Wind‑Rose Forecast
 Wind‑rose forecast for KMA stations across Korea.
 
