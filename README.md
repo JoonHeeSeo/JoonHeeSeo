@@ -12,8 +12,8 @@ Wind‑rose forecast for KMA stations across Korea.
 
 ---
 
-# 🛰️ Wildfire Burned Area Estimation with Sentinel-1 SAR
-Estimates wildfire burned area using Sentinel-1 SAR imagery.
+# 🛰️ Urban Flood Inundation Mapping with Sentinel-1 SAR
+Maps Urban Flood Inundation area using Sentinel-1 SAR imagery.
 
 🔗 
 
